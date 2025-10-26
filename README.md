@@ -49,7 +49,7 @@ return (
 - [Specific thing 3]: GPT was helpful in coming up with technical solutions I didn't know how to implement. For example, it helped me with making the table look evenly distributed(columns are evenly distributed and not skewed). It also helped me fetch images from JIKAN api. 
 
 ## Screenshots
-![App Screenshot](public/screenshot.png)
+![App Screenshot](public/screenshot.png?v=2)
 
 ## Future Improvements
 With more time, I would like to improve the python backend. Currently, I search for the most 3 recent attempts. However, I might want to expand that to 5 or shorten it to 2, depending on the player. I might also want to visually represent how confident the player is for each anime using a heat map/chart--grouping by the anime title, we search for all songs and guesses and tally them. A chart showing the most confident anime would be pretty nice, even though it doesn't specifically tailor to learning. 
