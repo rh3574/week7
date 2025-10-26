@@ -1,0 +1,2680 @@
+{
+  "0": {
+    "Song": {
+      "Id": 11506,
+      "StartTime": 1,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/05/51905.jpg",
+      "PlayedAt": "2024-03-18T02:32:01.182972",
+      "Titles": [
+        {
+          "LatinTitle": "Kimi Dake no Princess",
+          "NonLatinTitle": "キミだけのプリンセス",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 2055,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s21779",
+          "Titles": [
+            {
+              "LatinTitle": "AZKi",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11506
+          ]
+        },
+        {
+          "Id": 2119,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s22241",
+          "Titles": [
+            {
+              "LatinTitle": "Omaru Polka",
+              "NonLatinTitle": "尾丸 ポルカ",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11506
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/ydhb2j.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:33.5440000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/ydhb2j.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:01:33.5440000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 5791,
+          "AirDateStart": "2020-12-04T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 752,
+          "RatingBayesian": 746,
+          "VoteCount": 58,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Glass Hime to Kagami no Juusha",
+              "NonLatinTitle": "ガラス姫と鏡の従者",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v29402",
+              "Type": "VNDB",
+              "Name": "Glass Hime to Kagami no Juusha (ガラス姫と鏡の従者)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            11506
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 9,
+        "TimesPlayed": 23,
+        "CorrectPercentage": 39.130436,
+        "TimesGuessed": 13,
+        "TotalGuessMs": 128639,
+        "AverageGuessMs": 9895,
+        "UniqueUsers": 17
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Glass Hime to Kagami no Juusha",
+        "FirstGuessMs": 6239,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Glass Hime to Kagami no Juusha",
+        "FirstGuessMs": 16575,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Hanasaki Work Spring!",
+        "FirstGuessMs": 20000,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 2,
+    "TimesPlayed": 6,
+    "TimesGuessed": 3,
+    "TotalGuessMs": 42814
+  },
+  "1": {
+    "Song": {
+      "Id": 11733,
+      "StartTime": 34,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/90/50990.jpg",
+      "PlayedAt": "2024-03-18T02:32:28.21265",
+      "Titles": [
+        {
+          "LatinTitle": "Blooming Kiss!",
+          "NonLatinTitle": "Blooming Kiss!",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 169,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s553",
+          "Titles": [
+            {
+              "LatinTitle": "Sakuragawa Megu",
+              "NonLatinTitle": "桜川 めぐ",
+              "Language": "ja",
+              "IsMainTitle": false
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 1470,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s947",
+          "Titles": [
+            {
+              "LatinTitle": "Hanazawa Sakura",
+              "NonLatinTitle": "花澤 さくら",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 1772,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s12799",
+          "Titles": [
+            {
+              "LatinTitle": "Saegusa Ayame",
+              "NonLatinTitle": "三枝 アヤメ",
+              "Language": "ja",
+              "IsMainTitle": false
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 1905,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s6018",
+          "Titles": [
+            {
+              "LatinTitle": "Yuuki Honoka",
+              "NonLatinTitle": "結城 ほのか",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 2194,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s22612",
+          "Titles": [
+            {
+              "LatinTitle": "Alice Nene",
+              "NonLatinTitle": "有栖 ねね",
+              "Language": "ja",
+              "IsMainTitle": false
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 2195,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s22613",
+          "Titles": [
+            {
+              "LatinTitle": "Yuzuki Yukina",
+              "NonLatinTitle": "柚木 雪那",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        },
+        {
+          "Id": 2196,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s5006",
+          "Titles": [
+            {
+              "LatinTitle": "Yumiya Yumi",
+              "NonLatinTitle": "湯宮 由海",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            11733
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/7f500c35-8396-400e-8af0-70ea5de28ce6.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:32.0320000",
+          "SubmittedBy": "Wuffles",
+          "Sha256": "AA33CFD60EA672A72DF2C8247F74FC7220CE6B27CCA00D73AD3CCA8EAE7913A3"
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/weba/7f500c35-8396-400e-8af0-70ea5de28ce6.weba",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:32.0210000",
+          "SubmittedBy": "Wuffles",
+          "Sha256": "B69E0FED1F68BD6776E32F1592CCC71BC8B768F3B1B33F81BA6CD83492A40E4D"
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 5925,
+          "AirDateStart": "2021-10-22T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 780,
+          "RatingBayesian": 767,
+          "VoteCount": 43,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Ai Kiss 3",
+              "NonLatinTitle": "アイキス３",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v32132",
+              "Type": "VNDB",
+              "Name": "Ai Kiss 3 (アイキス３)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            11733
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 0,
+        "TimesPlayed": 0,
+        "CorrectPercentage": 0,
+        "TimesGuessed": 0,
+        "TotalGuessMs": 0,
+        "AverageGuessMs": 0,
+        "UniqueUsers": 0
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Shukusei no Girlfriend 3 -The Destiny Star of Girlfriend-",
+        "FirstGuessMs": 17425,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Glass Hime to Kagami no Juusha",
+        "FirstGuessMs": 18394,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Ai Kiss 3",
+        "FirstGuessMs": 11594,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Abnormal Lovers",
+        "FirstGuessMs": 16065,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 1,
+    "TimesPlayed": 6,
+    "TimesGuessed": 4,
+    "TotalGuessMs": 63478
+  },
+  "2": {
+    "Song": {
+      "Id": 8510,
+      "StartTime": 29,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/95/25795.jpg",
+      "PlayedAt": "2024-03-18T02:32:57.253711",
+      "Titles": [
+        {
+          "LatinTitle": "Precious Time",
+          "NonLatinTitle": "precious time",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 300,
+          "PrimaryLanguage": "ja",
+          "Sex": "Unknown",
+          "VndbId": "s793",
+          "Titles": [
+            {
+              "LatinTitle": "fripSide",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            8510
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/6fysq5.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:02:11.7120000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/s1tnlx.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:05:02.6540000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/us2fg7.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:02:11.6710000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/6fysq5.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:02:11.7120000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/s1tnlx.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:05:02.6540000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/us2fg7.webm",
+          "Type": "Catbox",
+          "IsVideo": true,
+          "Duration": "00:02:11.6710000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4243,
+          "AirDateStart": "2015-02-24T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 788,
+          "RatingBayesian": 788,
+          "VoteCount": 454,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Hanasaki Work Spring!",
+              "NonLatinTitle": "花咲ワークスプリング！",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v16070",
+              "Type": "VNDB",
+              "Name": "Hanasaki Work Spring! (花咲ワークスプリング！)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "ED"
+          ],
+          "MusicIds": [
+            8510
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 22,
+        "TimesPlayed": 40,
+        "CorrectPercentage": 55,
+        "TimesGuessed": 36,
+        "TotalGuessMs": 467455,
+        "AverageGuessMs": 12984,
+        "UniqueUsers": 21
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Hanasaki Work Spring!",
+        "FirstGuessMs": 8755,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Schwarzesmarken",
+        "FirstGuessMs": 13362,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "Kadenz fermata//Akkord:fortissimo",
+        "FirstGuessMs": 13957,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Hanasaki Work Spring!",
+        "FirstGuessMs": 5134,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "1/7 no Mahoutsukai",
+        "FirstGuessMs": 4879,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 2,
+    "TimesPlayed": 6,
+    "TimesGuessed": 5,
+    "TotalGuessMs": 46087
+  },
+  "3": {
+    "Song": {
+      "Id": 8200,
+      "StartTime": 76,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/63/20163.jpg",
+      "PlayedAt": "2024-03-18T02:33:24.26543",
+      "Titles": [
+        {
+          "LatinTitle": "Pluma Cielo",
+          "NonLatinTitle": null,
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 550,
+          "PrimaryLanguage": "ja",
+          "Sex": "Male",
+          "VndbId": "s103",
+          "Titles": [
+            {
+              "LatinTitle": "Ono Daisuke",
+              "NonLatinTitle": "小野 大輔",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            8200
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/09ef2dc5-763c-4ecd-a1a1-4b2c048aa89b.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:58.0180000",
+          "SubmittedBy": "Tokufi",
+          "Sha256": "6754FC3B29C3AF66EBE44EC442C89AF39E776E156B25BC243B4E181D571370C7"
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/weba/09ef2dc5-763c-4ecd-a1a1-4b2c048aa89b.weba",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:58",
+          "SubmittedBy": "Tokufi",
+          "Sha256": "2D46A3494E89636ED4490835C69E10C874FAB237F184FC36A6BB3AB064DFC4CC"
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4092,
+          "AirDateStart": "2016-04-21T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 739,
+          "RatingBayesian": 710,
+          "VoteCount": 18,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Kamigami no Asobi InFinite",
+              "NonLatinTitle": "神々の悪戯 InFinite",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v15023",
+              "Type": "VNDB",
+              "Name": "Kamigami no Asobi InFinite (神々の悪戯 InFinite)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            8200
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 4,
+        "TimesPlayed": 16,
+        "CorrectPercentage": 25,
+        "TimesGuessed": 14,
+        "TotalGuessMs": 198738,
+        "AverageGuessMs": 14195,
+        "UniqueUsers": 14
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "nope can't learn the title time to add",
+        "FirstGuessMs": 19278,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Kamigami no Asobi InFinite",
+        "FirstGuessMs": 4335,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "Photograph Journey",
+        "FirstGuessMs": 12019,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "STORM LOVER",
+        "FirstGuessMs": 14756,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Starry☆Sky ~After Summer~",
+        "FirstGuessMs": 19703,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "Tokimeki Restaurant ☆☆☆",
+        "FirstGuessMs": 14076,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 1,
+    "TimesPlayed": 6,
+    "TimesGuessed": 6,
+    "TotalGuessMs": 84167
+  },
+  "4": {
+    "Song": {
+      "Id": 1050,
+      "StartTime": 9,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/21/33721.jpg",
+      "PlayedAt": "2024-03-18T02:33:51.296785",
+      "Titles": [
+        {
+          "LatinTitle": "Gregorio",
+          "NonLatinTitle": null,
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 39,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s272",
+          "Titles": [
+            {
+              "LatinTitle": "Sakakibara Yui",
+              "NonLatinTitle": "榊原 ゆい",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            1050
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/1mv5g0.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:04:31.7250000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/70ee797a-fc09-424e-97b5-2bca067b67c8.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:45.8740000",
+          "SubmittedBy": "Mert",
+          "Sha256": "7C183D114D950D608038E2460D0215F3F3C497062D36B93BC3EC0F95BC4FFA46"
+        },
+        {
+          "Url": "https://files.catbox.moe/1mv5g0.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:04:31.7250000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 399,
+          "AirDateStart": "2009-07-24T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 808,
+          "RatingBayesian": 808,
+          "VoteCount": 2872,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Dies irae ~Acta est Fabula~",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v548",
+              "Type": "VNDB",
+              "Name": "Dies irae ~Acta est Fabula~"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            1050
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 30,
+        "TimesPlayed": 52,
+        "CorrectPercentage": 57.692307,
+        "TimesGuessed": 41,
+        "TotalGuessMs": 448211,
+        "AverageGuessMs": 10931,
+        "UniqueUsers": 34
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Dies irae ~Acta est Fabula~",
+        "FirstGuessMs": 16524,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Dies irae ~Acta est Fabula~",
+        "FirstGuessMs": 6239,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "got",
+        "FirstGuessMs": 20000,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Dies irae ~Acta est Fabula~",
+        "FirstGuessMs": 7480,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Dies irae ~Acta est Fabula~",
+        "FirstGuessMs": 5627,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "Dies irae ~Acta est Fabula~",
+        "FirstGuessMs": 3757,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 5,
+    "TimesPlayed": 6,
+    "TimesGuessed": 6,
+    "TotalGuessMs": 59627
+  },
+  "5": {
+    "Song": {
+      "Id": 9385,
+      "StartTime": 40,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/43/28043.jpg",
+      "PlayedAt": "2024-03-18T02:34:18.324576",
+      "Titles": [
+        {
+          "LatinTitle": "Hohoemi wa Kokoro ni Kakeru Niji",
+          "NonLatinTitle": null,
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 441,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s7607",
+          "Titles": [
+            {
+              "LatinTitle": "Yokoyama Chisa",
+              "NonLatinTitle": "横山 智佐",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            9385
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/i7feyt.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:49.2480000",
+          "SubmittedBy": "Lkyda",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/i7feyt.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:01:49.2480000",
+          "SubmittedBy": "Lkyda",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4677,
+          "AirDateStart": "1997-12-04T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 750,
+          "RatingBayesian": null,
+          "VoteCount": 3,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Ginga Ojou-sama Densetsu Yuna 3: Lightning Angel",
+              "NonLatinTitle": "銀河お嬢様伝説ユナ3 LIGHTNING ANGEL",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v19074",
+              "Type": "VNDB",
+              "Name": "Ginga Ojou-sama Densetsu Yuna 3: Lightning Angel (銀河お嬢様伝説ユナ3 LIGHTNING ANGEL)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            9385
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 6,
+        "TimesPlayed": 26,
+        "CorrectPercentage": 23.076923,
+        "TimesGuessed": 11,
+        "TotalGuessMs": 115328,
+        "AverageGuessMs": 10484,
+        "UniqueUsers": 19
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "D.C. III ~Da Capo III~",
+        "FirstGuessMs": 19295,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Musumaker",
+        "FirstGuessMs": 19142,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Ginga Ojou-sama Densetsu Yuna 2: Eien no Princess",
+        "FirstGuessMs": 12682,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "Ginga Ojou-sama Densetsu Yuna 3: Lightning Angel",
+        "FirstGuessMs": 18071,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 1,
+    "TimesPlayed": 6,
+    "TimesGuessed": 4,
+    "TotalGuessMs": 69190
+  },
+  "6": {
+    "Song": {
+      "Id": 3648,
+      "StartTime": 41,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/99/27699.jpg",
+      "PlayedAt": "2024-03-18T02:34:45.352851",
+      "Titles": [
+        {
+          "LatinTitle": "Ichibanboshi to Kimi to",
+          "NonLatinTitle": "一番星と君と",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 825,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s18186",
+          "Titles": [
+            {
+              "LatinTitle": "Canaco",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            3648
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/a242358e-4c23-417b-8856-2a161c17ea59.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:33.0220000",
+          "SubmittedBy": "Lkyda",
+          "Sha256": "5923D39C310DEB4AEDF9498F05E423037E5EF468C5DA21364F6D72E1E369C366"
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 1683,
+          "AirDateStart": "2010-02-09T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 720,
+          "RatingBayesian": 712,
+          "VoteCount": 47,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Okiba ga Nai!",
+              "NonLatinTitle": "置き場がない！",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v3098",
+              "Type": "VNDB",
+              "Name": "Okiba ga Nai! (置き場がない！)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "ED"
+          ],
+          "MusicIds": [
+            3648
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 2,
+        "TimesPlayed": 19,
+        "CorrectPercentage": 10.526316,
+        "TimesGuessed": 10,
+        "TotalGuessMs": 155813,
+        "AverageGuessMs": 15581,
+        "UniqueUsers": 14
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Sabbat of the Witch",
+        "FirstGuessMs": 16439,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Tantei Opera Milky Holmes 2",
+        "FirstGuessMs": 12648,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 0,
+    "TimesPlayed": 6,
+    "TimesGuessed": 2,
+    "TotalGuessMs": 29087
+  },
+  "7": {
+    "Song": {
+      "Id": 8630,
+      "StartTime": 50,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/95/51795.jpg",
+      "PlayedAt": "2024-03-18T02:35:12.386479",
+      "Titles": [
+        {
+          "LatinTitle": "Lucky Monster",
+          "NonLatinTitle": "Lucky Monster",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 40,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s3647",
+          "Titles": [
+            {
+              "LatinTitle": "Kicco",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            8630
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/112d47.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:42.0080000",
+          "SubmittedBy": "aruka",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/fanhym.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:41.1360000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/112d47.webm",
+          "Type": "Catbox",
+          "IsVideo": true,
+          "Duration": "00:01:42.0080000",
+          "SubmittedBy": "aruka",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/fanhym.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:01:41.1360000",
+          "SubmittedBy": "anb",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4307,
+          "AirDateStart": "2015-04-10T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 781,
+          "RatingBayesian": 779,
+          "VoteCount": 82,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Rensou Relation",
+              "NonLatinTitle": "恋想リレーション",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v16458",
+              "Type": "VNDB",
+              "Name": "Rensou Relation (恋想リレーション)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            8630
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 21,
+        "TimesPlayed": 56,
+        "CorrectPercentage": 37.5,
+        "TimesGuessed": 42,
+        "TotalGuessMs": 500127,
+        "AverageGuessMs": 11907,
+        "UniqueUsers": 34
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Rensou Relation",
+        "FirstGuessMs": 4284,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Rensou Relation",
+        "FirstGuessMs": 7667,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Rensou Relation",
+        "FirstGuessMs": 12903,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 3,
+    "TimesPlayed": 6,
+    "TimesGuessed": 3,
+    "TotalGuessMs": 24854
+  },
+  "8": {
+    "Song": {
+      "Id": 9126,
+      "StartTime": 74,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/37/26137.jpg",
+      "PlayedAt": "2024-03-18T02:35:39.414484",
+      "Titles": [
+        {
+          "LatinTitle": "N.O.S",
+          "NonLatinTitle": "N.O.S",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 76,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s935",
+          "Titles": [
+            {
+              "LatinTitle": "nao",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            9126
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/0o7fww.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:59.4070000",
+          "SubmittedBy": "Serecola",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/nmv8fu.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:59.4840000",
+          "SubmittedBy": "Serecola",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/yv1g77.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:04:51.0590000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/0o7fww.webm",
+          "Type": "Catbox",
+          "IsVideo": true,
+          "Duration": "00:01:59.4070000",
+          "SubmittedBy": "Serecola",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/nmv8fu.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:01:59.4840000",
+          "SubmittedBy": "Serecola",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/yv1g77.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:04:51.0590000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4555,
+          "AirDateStart": "2016-05-19T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 695,
+          "RatingBayesian": 695,
+          "VoteCount": 789,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "LAMUNATION!",
+              "NonLatinTitle": null,
+              "Language": "en",
+              "IsMainTitle": false
+            },
+            {
+              "LatinTitle": "LAMUNATION!",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v18344",
+              "Type": "VNDB",
+              "Name": "LAMUNATION!"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            9126
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 63,
+        "TimesPlayed": 111,
+        "CorrectPercentage": 56.756756,
+        "TimesGuessed": 89,
+        "TotalGuessMs": 1064578,
+        "AverageGuessMs": 11961,
+        "UniqueUsers": 55
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "lamunation!",
+        "FirstGuessMs": 4012,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "nao?",
+        "FirstGuessMs": 18700,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "Kadenz fermata//Akkord:fortissimo",
+        "FirstGuessMs": 12206,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "LAMUNATION!",
+        "FirstGuessMs": 4522,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "LAMUNATION!",
+        "FirstGuessMs": 5083,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 3,
+    "TimesPlayed": 6,
+    "TimesGuessed": 5,
+    "TotalGuessMs": 44523
+  },
+  "9": {
+    "Song": {
+      "Id": 9120,
+      "StartTime": 16,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/70/26170.jpg",
+      "PlayedAt": "2024-03-18T02:36:06.44492",
+      "Titles": [
+        {
+          "LatinTitle": "as×sist ~Amae-beta na Watashi Nari Ni~",
+          "NonLatinTitle": "as×sist ～甘えベタな私なりに～",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 217,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s555",
+          "Titles": [
+            {
+              "LatinTitle": "Kawada Mami",
+              "NonLatinTitle": "川田 まみ",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            9120
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/n75qjv.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:05:01.5050000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/74f7cb0a-2d59-4f8e-bdb5-ad7a2bdba773.webm",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:47.0080000",
+          "SubmittedBy": "kaghey",
+          "Sha256": "AD7AFE937318F678CE708C35BE1D56265A0BA3FE9CB287F866931D2E6CFFBAEA"
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/weba/74f7cb0a-2d59-4f8e-bdb5-ad7a2bdba773.weba",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:01:47.0210000",
+          "SubmittedBy": "kaghey",
+          "Sha256": "108D8C8ECD760FA16B4BFC3B0C7FF591F4949962FE33F454FC486750249488EA"
+        },
+        {
+          "Url": "https://files.catbox.moe/n75qjv.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:05:01.5050000",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4552,
+          "AirDateStart": "2016-02-26T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 668,
+          "RatingBayesian": 668,
+          "VoteCount": 118,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Amaekata wa Kanojo Nari ni.",
+              "NonLatinTitle": "甘えかたは彼女なりに。",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v18335",
+              "Type": "VNDB",
+              "Name": "Amaekata wa Kanojo Nari ni. (甘えかたは彼女なりに。)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            9120
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 20,
+        "TimesPlayed": 63,
+        "CorrectPercentage": 31.74603,
+        "TimesGuessed": 48,
+        "TotalGuessMs": 615161,
+        "AverageGuessMs": 12815,
+        "UniqueUsers": 33
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Amaekata wa Kanojo Nari ni.",
+        "FirstGuessMs": 5763,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "Aokana -Four Rhythms Across the Blue-",
+        "FirstGuessMs": 19108,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "Amaekata wa Kanojo Nari ni.",
+        "FirstGuessMs": 4199,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Hatsukoi 1/1",
+        "FirstGuessMs": 8041,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 2,
+    "TimesPlayed": 6,
+    "TimesGuessed": 4,
+    "TotalGuessMs": 37111
+  },
+  "10": {
+    "Song": {
+      "Id": 448,
+      "StartTime": 246,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/42/26442.jpg",
+      "PlayedAt": "2024-03-18T02:36:37.477208",
+      "Titles": [
+        {
+          "LatinTitle": "Close Your Eyes",
+          "NonLatinTitle": null,
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 81,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s560",
+          "Titles": [
+            {
+              "LatinTitle": "Ayane",
+              "NonLatinTitle": "彩音",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            448
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/p1dpl0.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:05:11.6400000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/p1dpl0.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:05:11.6400000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 151,
+          "AirDateStart": "2007-09-14T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 828,
+          "RatingBayesian": 828,
+          "VoteCount": 11093,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "G-senjou no Maou",
+              "NonLatinTitle": "G線上の魔王",
+              "Language": "ja",
+              "IsMainTitle": true
+            },
+            {
+              "LatinTitle": "G-senjou no Maou - The Devil on G-String",
+              "NonLatinTitle": null,
+              "Language": "en",
+              "IsMainTitle": false
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v211",
+              "Type": "VNDB",
+              "Name": "G-senjou no Maou (G線上の魔王)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "Insert"
+          ],
+          "MusicIds": [
+            448
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 16,
+        "TimesPlayed": 52,
+        "CorrectPercentage": 30.76923,
+        "TimesGuessed": 43,
+        "TotalGuessMs": 507068,
+        "AverageGuessMs": 11792,
+        "UniqueUsers": 36
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Higurashi When They Cry - Question Arcs",
+        "FirstGuessMs": 15572,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "11eyes -Tsumi to Batsu to Aganai no Shoujo-",
+        "FirstGuessMs": 9860,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "G-senjou no Maou",
+        "FirstGuessMs": 5712,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "steeins",
+        "FirstGuessMs": 20000,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "G-senjou no Maou",
+        "FirstGuessMs": 4879,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 2,
+    "TimesPlayed": 6,
+    "TimesGuessed": 5,
+    "TotalGuessMs": 56023
+  },
+  "11": {
+    "Song": {
+      "Id": 8843,
+      "StartTime": 44,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/86/26786.jpg",
+      "PlayedAt": "2024-03-18T02:37:13.49842",
+      "Titles": [
+        {
+          "LatinTitle": "Mirror, Mirror",
+          "NonLatinTitle": "Mirror, Mirror",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 1506,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s7560",
+          "Titles": [
+            {
+              "LatinTitle": "Nano",
+              "NonLatinTitle": "ナノ",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            8843
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/4gd8sa.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:03:42.8500000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/9hmbc5.mp4",
+          "Type": "Self",
+          "IsVideo": true,
+          "Duration": "00:01:30.2790000",
+          "SubmittedBy": "Renzou",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/4gd8sa.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:03:42.8500000",
+          "SubmittedBy": "Mert",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/9hmbc5.mp4",
+          "Type": "Catbox",
+          "IsVideo": true,
+          "Duration": "00:01:30.2790000",
+          "SubmittedBy": "Renzou",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 4411,
+          "AirDateStart": "2015-11-19T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 671,
+          "RatingBayesian": 671,
+          "VoteCount": 277,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "BAD APPLE WARS",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v17344",
+              "Type": "VNDB",
+              "Name": "BAD APPLE WARS"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            8843
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 36,
+        "TimesPlayed": 60,
+        "CorrectPercentage": 60,
+        "TimesGuessed": 51,
+        "TotalGuessMs": 506081,
+        "AverageGuessMs": 9923,
+        "UniqueUsers": 31
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "BAD APPLE WARS",
+        "FirstGuessMs": 3281,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "bad apple wars",
+        "FirstGuessMs": 7497,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "nano rig i forgot the name of",
+        "FirstGuessMs": 17493,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "BAD APPLE WARS",
+        "FirstGuessMs": 6664,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "BAD APPLE WARS",
+        "FirstGuessMs": 12019,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "BAD APPLE WARS",
+        "FirstGuessMs": 8432,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 5,
+    "TimesPlayed": 6,
+    "TimesGuessed": 6,
+    "TotalGuessMs": 55386
+  },
+  "12": {
+    "Song": {
+      "Id": 5831,
+      "StartTime": 5,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/39/13239.jpg",
+      "PlayedAt": "2024-03-18T02:37:41.505112",
+      "Titles": [
+        {
+          "LatinTitle": "Hill Of Sorrow",
+          "NonLatinTitle": null,
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 3215,
+          "PrimaryLanguage": "ja",
+          "Sex": "Male",
+          "VndbId": "s36580",
+          "Titles": [
+            {
+              "LatinTitle": "mpi",
+              "NonLatinTitle": null,
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            5831
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/userup/119e337c-ceed-4de0-b6f7-8b74b7d95245.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:04:06.1770000",
+          "SubmittedBy": "Lkyda",
+          "Sha256": "9FD31D9FDECE0E499658E067057E91EFE1F6475FC21BC0D285E1065B6A18CEDC"
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 2913,
+          "AirDateStart": "2012-03-09T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": 723,
+          "RatingBayesian": 723,
+          "VoteCount": 386,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Guilty Crown: Lost Christmas",
+              "NonLatinTitle": "ギルティクラウン\u3000ロストクリスマス",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v7402",
+              "Type": "VNDB",
+              "Name": "Guilty Crown: Lost Christmas (ギルティクラウン\u3000ロストクリスマス)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "Insert"
+          ],
+          "MusicIds": [
+            5831
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 23,
+        "TimesPlayed": 33,
+        "CorrectPercentage": 69.69697,
+        "TimesGuessed": 29,
+        "TotalGuessMs": 248394,
+        "AverageGuessMs": 8565,
+        "UniqueUsers": 16
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Guilty Crown: Lost Christmas",
+        "FirstGuessMs": 4794,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Guilty Crown: Lost Christmas",
+        "FirstGuessMs": 4624,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "Guilty Crown: Lost Christmas",
+        "FirstGuessMs": 5134,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "Guilty Crown: Lost Christmas",
+        "FirstGuessMs": 5967,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 4,
+    "TimesPlayed": 6,
+    "TimesGuessed": 4,
+    "TotalGuessMs": 20519
+  },
+  "13": {
+    "Song": {
+      "Id": 10912,
+      "StartTime": 141,
+      "ScreenshotUrl": "",
+      "CoverUrl": "https://erogemusicquiz.com/selfhoststorage/vndb-img/cv/51/37851.jpg",
+      "PlayedAt": "2024-03-18T02:38:18.508915",
+      "Titles": [
+        {
+          "LatinTitle": "Hikari",
+          "NonLatinTitle": "光",
+          "Language": "ja",
+          "IsMainTitle": true
+        }
+      ],
+      "Artists": [
+        {
+          "Id": 51,
+          "PrimaryLanguage": "ja",
+          "Sex": "Female",
+          "VndbId": "s1236",
+          "Titles": [
+            {
+              "LatinTitle": "Mizuki Nana",
+              "NonLatinTitle": "水樹 奈々",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Role": "Vocals",
+          "MusicIds": [
+            10912
+          ]
+        }
+      ],
+      "Links": [
+        {
+          "Url": "https://erogemusicquiz.com/selfhoststorage/catbox/w252xw.mp3",
+          "Type": "Self",
+          "IsVideo": false,
+          "Duration": "00:04:55",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        },
+        {
+          "Url": "https://files.catbox.moe/w252xw.mp3",
+          "Type": "Catbox",
+          "IsVideo": false,
+          "Duration": "00:04:55",
+          "SubmittedBy": "Cookie 4IS",
+          "Sha256": ""
+        }
+      ],
+      "Type": "Standard",
+      "Sources": [
+        {
+          "Id": 5453,
+          "AirDateStart": "2006-02-09T00:00:00",
+          "AirDateEnd": null,
+          "LanguageOriginal": "ja",
+          "RatingAverage": null,
+          "RatingBayesian": null,
+          "VoteCount": 0,
+          "Type": "VN",
+          "Titles": [
+            {
+              "LatinTitle": "Yamiyo ni Sasayaku ~Tantei Sagara Kyouichirou~",
+              "NonLatinTitle": "闇夜にささやく ～探偵 相楽恭一郎～",
+              "Language": "ja",
+              "IsMainTitle": true
+            }
+          ],
+          "Links": [
+            {
+              "Url": "https://vndb.org/v25119",
+              "Type": "VNDB",
+              "Name": "Yamiyo ni Sasayaku ~Tantei Sagara Kyouichirou~ (闇夜にささやく ～探偵 相楽恭一郎～)"
+            }
+          ],
+          "Categories": [],
+          "SongTypes": [
+            "OP"
+          ],
+          "MusicIds": [
+            10912
+          ]
+        }
+      ],
+      "Stats": {
+        "TimesCorrect": 4,
+        "TimesPlayed": 25,
+        "CorrectPercentage": 16,
+        "TimesGuessed": 19,
+        "TotalGuessMs": 263049,
+        "AverageGuessMs": 13844,
+        "UniqueUsers": 17
+      },
+      "MusicBrainzRecordingGid": null,
+      "MusicBrainzReleases": [],
+      "VgmdbAlbums": []
+    },
+    "PlayerGuessInfos": {
+      "22": {
+        "Username": "Zippy",
+        "Guess": "Memories Off",
+        "FirstGuessMs": 8500,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "124": {
+        "Username": "Tokufi",
+        "Guess": "Memories Off 2nd",
+        "FirstGuessMs": 7293,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "187": {
+        "Username": "dada38",
+        "Guess": "",
+        "FirstGuessMs": 0,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "18": {
+        "Username": "anb",
+        "Guess": "white ",
+        "FirstGuessMs": 20000,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "11": {
+        "Username": "Kirivert",
+        "Guess": "--->",
+        "FirstGuessMs": 17629,
+        "IsGuessCorrect": false,
+        "Labels": null,
+        "IsOnList": false,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      },
+      "111": {
+        "Username": "transfer",
+        "Guess": "Yamiyo ni Sasayaku ~Tantei Sagara Kyouichirou~",
+        "FirstGuessMs": 8313,
+        "IsGuessCorrect": true,
+        "Labels": null,
+        "IsOnList": true,
+        "PreviousUserSpacedRepetition": null,
+        "CurrentUserSpacedRepetition": null,
+        "PlayerSongStats": null
+      }
+    },
+    "TimesCorrect": 1,
+    "TimesPlayed": 6,
+    "TimesGuessed": 5,
+    "TotalGuessMs": 61735
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "player": "tskr",
+  "relearn_songs": [
+    {
+      "anime": "My Hero Academia",
+      "title": "Might",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "neo_python_20.json",
+        "civilorfey15.json",
+        "amq_song_expoert-2025-01-07_21-03-30.json"
+      ]
+    },
+    {
+      "anime": "Kino's Journey: The Beautiful World - The Animated Series",
+      "title": "here and there",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-01-07_21-03-30.json",
+        "amq_song_expoert-2025-05-26_07-30-38.json",
+        "amq_song_expoert-2025-06-23_20-45-14.json"
+      ]
+    },
+    {
+      "anime": "A Certain Scientific Railgun T",
+      "title": "Aoarashi no Ato de",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-21_00-17-42.json",
+        "lenose-yerardi_32.json",
+        "ren-kar_19.json"
+      ]
+    },
+    {
+      "anime": "High School DxD New",
+      "title": "Gekijouron",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-11_21-35-03.json",
+        "DryKomari33.json",
+        "AisuRorf16.json"
+      ]
+    },
+    {
+      "anime": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire",
+      "title": "Self Hug Big Love",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "kezzy-bofu_32.json",
+        "RenzouMami24.json",
+        "amq_song_expoert-2025-04-29_13-46-36.json"
+      ]
+    },
+    {
+      "anime": "Sugar Apple Fairy Tale",
+      "title": "door",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "fortnite-thaleko_22.json",
+        "RenzouMami24.json",
+        "fumiibeo.json"
+      ]
+    },
+    {
+      "anime": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+      "title": "Minna Onaji",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "FlothThaleko21.json",
+        "amq_song_expoert-2025-05-24_15-15-51 (1).json",
+        "sewim-channina_35.json"
+      ]
+    },
+    {
+      "anime": "The iDOLM@STER Cinderella Girls",
+      "title": "Wonder goes on!!",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "bofufloth35.json",
+        "sniparook_comfv 35.json",
+        "civilalkios.json"
+      ]
+    },
+    {
+      "anime": "Panty & Stocking with Garterbelt",
+      "title": "CHOCOLAT",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-06-23_21-25-31.json",
+        "MahiruRenzou25.json",
+        "amq_song_expoert-2025-05-16_13-36-14.json"
+      ]
+    },
+    {
+      "anime": "Higurashi: When They Cry - Gou",
+      "title": "Orange-iro no Kaze",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "BofuThaleko26.json",
+        "lenose-yerardi_32.json",
+        "alkios ren 19.json"
+      ]
+    },
+    {
+      "anime": "Sweet Reincarnation",
+      "title": "Fuumi Zekka",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "FlothMilar21.json",
+        "amq_song_expoert-2025-02-14_23-11-34.json",
+        "pool-beo-25.json"
+      ]
+    },
+    {
+      "anime": "Pokémon the Series: XYZ",
+      "title": "DoriDori",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "MamiChef33.json",
+        "neobofu24.json",
+        "amq_song_expoert-2025-03-10_20-55-41.json"
+      ]
+    },
+    {
+      "anime": "Kuroko's Basketball The Movie: Last Game",
+      "title": "Against The Wind",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "OhFloth25.json",
+        "thaleko_kezzy_23.json",
+        "amq_song_expoert-2025-03-10_20-55-41.json"
+      ]
+    },
+    {
+      "anime": "Himitsu no Hana no Niwa",
+      "title": "White Rabbit",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-11_21-35-03.json",
+        "amq_song_expoert-2025-08-19_22-10-07.json",
+        "clay-chan21.json"
+      ]
+    },
+    {
+      "anime": "The Apothecary Diaries",
+      "title": "Omoi Saku Toki",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "nose-neph.json",
+        "amq_song_expoert-2024-12-23_22-43-39.json",
+        "amq_song_expoert-2024-12-20_23-33-10.json"
+      ]
+    },
+    {
+      "anime": "Let This Grieving Soul Retire",
+      "title": "Scream!",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "clay-bofu23.json",
+        "purple-kumo_17.json",
+        "ephemeral-python_13.json"
+      ]
+    },
+    {
+      "anime": "Oreimo Season 2",
+      "title": "Kyou mo Shiawase",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-03-02_17-11-00.json",
+        "amq_song_expoert-2025-06-23_21-00-02.json",
+        "doomwolf35.json"
+      ]
+    },
+    {
+      "anime": "White Album 2",
+      "title": "WHITE ALBUM",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "neoseismic17.json",
+        "bamboo-neo-25.json",
+        "amq_song_expoert-2025-03-12_22-43-40.json"
+      ]
+    },
+    {
+      "anime": "Whisper Me a Love Song",
+      "title": "Sunny Spot",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-10-27_16-03-05.json",
+        "PoolnoodleAnonimus21.json",
+        "snipa-shake_35.json"
+      ]
+    },
+    {
+      "anime": "Eiga Youkai Watch! Jam: Youkai Gakuen Y - Neko wa Hero ni Nareru ka",
+      "title": "Y Gakuen e Ikou Gakuen Dotabata-hen",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "pool-bofu_28.json",
+        "DkingBofu22.json",
+        "amq_song_expoert-2024-10-24_23-46-16.json"
+      ]
+    },
+    {
+      "anime": "Uma Musume: Pretty Derby",
+      "title": "Silent Star",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "FlothAimyon22.json",
+        "BellaFloth19.json",
+        "kishua-zeal-33.json"
+      ]
+    },
+    {
+      "anime": "Puella Magi Madoka Magica The Movie Part 3: Rebellion",
+      "title": "misterioso",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-06-04_14-32-30.json",
+        "sewimpurple15.json",
+        "amq_song_expoert-2025-07-03_05-05-29.json"
+      ]
+    },
+    {
+      "anime": "Love Live! The School Idol Movie",
+      "title": "SUNNY DAY SONG",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-06-04_14-32-30.json",
+        "Pile1-0neoburnz.json",
+        "amq_song_expoert-2025-09-06_13-35-03.json"
+      ]
+    },
+    {
+      "anime": "Kennel Tokorozawa",
+      "title": "Koi Kamo Shirenai",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "bofu-neo22.json",
+        "BofuBeo28.json",
+        "neomoose16.json"
+      ]
+    },
+    {
+      "anime": "Wataten!: An Angel Flew Down to Me",
+      "title": "Ano Ko ni Aitai",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "carboarron.json",
+        "DeneroWolf25.json",
+        "kezzy-bofu_18.json"
+      ]
+    },
+    {
+      "anime": "My Hero Academia",
+      "title": "Sound of the Holidays",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-13_23-12-23.json",
+        "neph-nose-2.json",
+        "neobofu24.json"
+      ]
+    },
+    {
+      "anime": "Wataten!: An Angel Flew Down to Me Precious Friends",
+      "title": "Precious Friends!",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-13_23-12-23.json",
+        "bijoufloth26.json",
+        "purple-noru-24.json"
+      ]
+    },
+    {
+      "anime": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+      "title": "Tactics",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-08-19_22-10-07.json",
+        "amq_song_expoert-2024-12-12_17-56-42.json",
+        "amq_song_expoert-2025-04-02_22-51-48.json"
+      ]
+    },
+    {
+      "anime": "Strike the Blood",
+      "title": "Fight 4 Real",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-01-11_14-16-42.json",
+        "amq_song_expoert-2024-12-12_17-56-42.json",
+        "neomahiru26.json"
+      ]
+    },
+    {
+      "anime": "The Irregular at Magic High School",
+      "title": "Vespertine Bloom",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-08-21_03-58-23.json",
+        "amq_song_expoert-2025-06-23_21-13-38.json",
+        "AisuJuli16.json"
+      ]
+    },
+    {
+      "anime": "Detective Conan: Full Score of Fear",
+      "title": "Tsubasa o Hirogete",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-02_23-05-53.json",
+        "amq_song_expoert-2025-08-19_22-10-07.json",
+        "amq_song_expoert-2025-01-15_23-37-32.json"
+      ]
+    },
+    {
+      "anime": "Akame ga Kill!",
+      "title": "Jaegers",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "Mage-drago20.json",
+        "amq_song_expoert-2025-03-18_09-48-26.json",
+        "amq_song_expoert-2025-08-21_04-08-02.json"
+      ]
+    },
+    {
+      "anime": "Aikatsu!",
+      "title": "SHINING LINE*",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-09_14-49-00.json",
+        "amq_song_expoert-2025-04-05_16-00-01.json",
+        "thaleko-floth_24.json"
+      ]
+    },
+    {
+      "anime": "Jormungand Perfect Order",
+      "title": "Shinjitsu no Hane",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "deafnoru_26.json",
+        "deafnoru26.json",
+        "amq_song_expoert-2024-12-08_15-12-28.json"
+      ]
+    },
+    {
+      "anime": "Amazing Nuts!",
+      "title": "Smile Again",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "AisuRorf16.json",
+        "OhFloth25.json",
+        "neph-nose-2.json"
+      ]
+    },
+    {
+      "anime": "Show By Rock!! Mashumairesh!!",
+      "title": "Parallelism Crown",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "BofuThaleko26.json",
+        "AisuRorf16.json",
+        "histfloth20.json"
+      ]
+    },
+    {
+      "anime": "Revue Starlight",
+      "title": "Hoshiboshi no Kizuna",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "Mage-drago20.json",
+        "denero_mami_16.json",
+        "neo-floth35.json"
+      ]
+    },
+    {
+      "anime": "Mekakucity Actors",
+      "title": "Mekakushi Code",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "denerofloth.json",
+        "ren-pool_31.json",
+        "amq_song_expoert-2025-02-17_15-48-43.json"
+      ]
+    },
+    {
+      "anime": "Selection Project",
+      "title": "SPARKRASH",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "kezzy-bofu_32.json",
+        "RorfDeafness11.json",
+        "amq_song_expoert-2025-02-13_23-23-16.json"
+      ]
+    },
+    {
+      "anime": "Waccha PriMagi!",
+      "title": "Waccha! Please! Magic! -What's your \"Please\" Magic?-",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-01-24_13-54-51.json",
+        "amq_song_expoert-2025-04-02_22-51-48.json",
+        "Ephe-Drago31.json"
+      ]
+    },
+    {
+      "anime": "My Love Story With Yamada-kun at Lv999",
+      "title": "Trick Art",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "civil-vortex-23.json",
+        "amq_song_expoert-2025-03-18_09-48-26.json",
+        "amq_song_expoert-2024-10-27_15-47-27.json"
+      ]
+    },
+    {
+      "anime": "Flip Flappers",
+      "title": "find the wind",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "lili-shadow_35.json",
+        "clay-chan35.json",
+        "thaleko_kezzy_23.json"
+      ]
+    },
+    {
+      "anime": "A Certain Magical Index II",
+      "title": "Pray ~Inori~",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "bofu_denero_27.json",
+        "BofuChaabdu30.json",
+        "kabigon-mami_21.json"
+      ]
+    },
+    {
+      "anime": "My Stepmom's Daughter is My Ex",
+      "title": "Deneb to Spica",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-22_07-53-11.json",
+        "tour-amq_song_expoert-2025-05-10_23-03-15-doompool-24.json",
+        "amq_song_expoert-2025-09-09_05-30-02.json"
+      ]
+    },
+    {
+      "anime": "Revue Starlight: The Movie",
+      "title": "Pen:Chikara:Katana",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-13_14-57-21.json",
+        "tour-amq_song_expoert-2025-05-10_23-03-15-doompool-24.json",
+        "wuf-doom_21.json"
+      ]
+    },
+    {
+      "anime": "Miru Tights",
+      "title": "True Days",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-03-06_01-02-46.json",
+        "amq_song_expoert-2025-03-18_09-48-26.json",
+        "amq_song_expoert-2025-04-24_21-31-24.json"
+      ]
+    },
+    {
+      "anime": "The Devil is a Part-Timer! Season 2",
+      "title": "Mizukagami no Sekai",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "deaf_kar_35.json",
+        "amq_song_expoert-2025-03-13_22-36-34.json",
+        "amq_song_expoert-2025-08-21_04-08-02.json"
+      ]
+    },
+    {
+      "anime": "Initial D: Battle Stage 3",
+      "title": "SMOKE ON THE FIRE",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "neomath19.json",
+        "MathShake20.json",
+        "ToshiEphemeral19.json"
+      ]
+    },
+    {
+      "anime": "Assault Lily Bouquet",
+      "title": "GROWING*",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "LgdRyuyah23.json",
+        "bijoufloth26.json",
+        "amq_song_expoert-2025-04-24_21-48-28.json"
+      ]
+    },
+    {
+      "anime": "Seirei Gensouki: Spirit Chronicles",
+      "title": "Elder flower",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "pool-bofu_24.json",
+        "amq_song_expoert-2025-04-26_17-03-33.json",
+        "amq_song_expoert-2025-03-18_09-48-26.json"
+      ]
+    },
+    {
+      "anime": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
+      "title": "Scutum",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-06-14_13-06-36.json",
+        "amq_song_expoert-2025-04-06_17-09-55.json",
+        "amq_song_expoert-2025-01-01_15-06-25.json"
+      ]
+    },
+    {
+      "anime": "Gargantia on the Verdurous Planet",
+      "title": "Sora to Kimi no Message",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-01-15_23-13-47.json",
+        "saiki_orfey_18.json",
+        "amq_song_expoert-2025-08-15_22-46-45.json"
+      ]
+    },
+    {
+      "anime": "Magical Girl Raising Project",
+      "title": "Sakebe",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "PoolnoodleAnonimus21.json",
+        "MamiFloth21.json",
+        "wufzeal-32.json"
+      ]
+    },
+    {
+      "anime": "Sound! Euphonium: The Movie - Our Promise: A Brand New Day",
+      "title": "Blast!",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "snipa-denero.json",
+        "floth-shadow_35.json",
+        "mami-anon_23.json"
+      ]
+    },
+    {
+      "anime": "Seirei Gensouki: Spirit Chronicles",
+      "title": "New story",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "bijoufloth26.json",
+        "amq_song_expoert-2024-12-07_12-47-00.json",
+        "amq_song_expoert-2024-12-08_17-34-04.json"
+      ]
+    },
+    {
+      "anime": "The Devil is a Part-Timer!",
+      "title": "Star Chart",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-11_21-35-03.json",
+        "BofuNephirea21.json",
+        "tour-amq_song_expoert-2025-03-03_07-40-14-dene30juli-23.json"
+      ]
+    },
+    {
+      "anime": "Fate/Zero",
+      "title": "the sword of promised victory ~Fate/Zero ver.",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-05_03-09-45.json",
+        "amq_song_expoert-2025-04-11_21-35-03.json",
+        "amq_song_expoert-2025-05-19_22-40-39.json"
+      ]
+    },
+    {
+      "anime": "Isekai Quartet 2",
+      "title": "Ponkotsu! Isekai Theater",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "bofu_denero_27.json",
+        "clayrorf17.json",
+        "amq_song_expoert-2024-12-13_23-30-11.json"
+      ]
+    },
+    {
+      "anime": "Haganai",
+      "title": "Futari no Kisetsu",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-08-15_06-45-44.json",
+        "chem-wolf-27.json",
+        "Chaab-Drago26.json"
+      ]
+    },
+    {
+      "anime": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
+      "title": "Usubeni no Tsuki",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "karorf25.json",
+        "amq_song_expoert-2024-11-01_18-53-03.json",
+        "amq_song_expoert-2025-03-06_01-22-54.json"
+      ]
+    },
+    {
+      "anime": "Zombie Land Saga",
+      "title": "To my Dearest",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "wuf-doom_21.json",
+        "thaleko_kezzy_23.json",
+        "histfloth20.json"
+      ]
+    },
+    {
+      "anime": "Cardcaptor Sakura Video Diary",
+      "title": "Catch You Catch Me (Sakura Version)",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-12-21_00-17-42.json",
+        "amq_song_expoert-2025-05-24_01-31-50.json",
+        "snipa-channina_35.json"
+      ]
+    },
+    {
+      "anime": "Irodorimidori",
+      "title": "Change Our MIRAI!",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "FlothAimyon30.json",
+        "amq_song_expoert-2025-06-23_21-00-02.json",
+        "amq_song_expoert-2025-05-12_23-24-29.json"
+      ]
+    },
+    {
+      "anime": "We Never Learn!: BOKUBEN Season 2",
+      "title": "Houkago no Liberty",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-11-17_16-58-46.json",
+        "RorfMaki35.json",
+        "yerardi_orfey_26.json"
+      ]
+    },
+    {
+      "anime": "Love Live! Nijigasaki High School Idol Club",
+      "title": "Mirai Harmony",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "bomwuffles32.json",
+        "amq_song_expoert-2025-03-10_21-16-44.json",
+        "snipa-ruuka_27.json"
+      ]
+    },
+    {
+      "anime": "Aikatsu!",
+      "title": "Hello Hello",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "neopurple28.json",
+        "PoolnoodleAnonimus32.json",
+        "jessi-bofu_22.json"
+      ]
+    },
+    {
+      "anime": "Attack on Titan",
+      "title": "The Reluctant Heroes",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "FlothAimyon30.json",
+        "purple-zental_23.json",
+        "Chaab-Drago21.json"
+      ]
+    },
+    {
+      "anime": "Vermeil in Gold",
+      "title": "Abracada-Boo",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "BofuChaabdu30.json",
+        "renmami26.json",
+        "amq_song_expoert-2024-12-20_23-33-10.json"
+      ]
+    },
+    {
+      "anime": "Kizumonogatari Part 3: Reiketsu",
+      "title": "étoile et toi [édition le blanc]",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-06-14_13-06-36.json",
+        "amq_song_expoert-2024-12-19_19-20-43.json",
+        "amq_song_expoert-2024-12-20_23-33-10.json"
+      ]
+    },
+    {
+      "anime": "The Garden of Sinners Remix: Gate of Seventh Heaven",
+      "title": "ARIA",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-03-02_17-11-00.json",
+        "amq_song_expoert-2024-12-19_19-42-02.json",
+        "amq_song_expoert-2025-08-26_09-21-01.json"
+      ]
+    },
+    {
+      "anime": "Astra Lost in Space",
+      "title": "Astra-gou no Bouken",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "flothalkios21.json",
+        "thaleko_kezzy_28.json",
+        "amq_song_expoert-2025-02-13_23-23-16.json"
+      ]
+    },
+    {
+      "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+      "title": "Kirikizu",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-01-15_22-33-46.json",
+        "amq_song_expoert-2024-12-19_19-42-02.json",
+        "BofuThaleko26.json"
+      ]
+    },
+    {
+      "anime": "Revue Starlight: The Movie",
+      "title": "Watashi-tachi wa Mou Butai no Ue",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "denerofloth.json",
+        "amq_song_expoert-2025-08-26_15-41-49.json",
+        "neo-floth22.json"
+      ]
+    },
+    {
+      "anime": "Haganai",
+      "title": "SHOCK YOUR EYES",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-13_22-13-34.json",
+        "amq_song_expoert-2025-08-19_22-10-07.json",
+        "amq_song_expoert-2024-12-29_14-34-30.json"
+      ]
+    },
+    {
+      "anime": "My Hero Academia The Movie: Two Heroes",
+      "title": "Here",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "flothfumii26.json",
+        "nose-wuffles.json",
+        "PoolnoodleAnonimus32.json"
+      ]
+    },
+    {
+      "anime": "Show By Rock!! Mashumairesh!!",
+      "title": "Platform",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "nose-wuffles.json",
+        "Mage-drago20.json",
+        "amq_song_expoert-2025-02-08_17-30-56.json"
+      ]
+    },
+    {
+      "anime": "Triangle Heart: Sweet Songs Forever",
+      "title": "Trust You're Truth ~Ashita o Mamoru Yakusoku~",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "chefbeo21.json",
+        "lilyneo20.json",
+        "amq_song_expoert-2025-09-09_05-30-02.json"
+      ]
+    },
+    {
+      "anime": "In Another World With My Smartphone 2",
+      "title": "Isekai Jewelry",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "wolf-mahz_19.json",
+        "amq_song_expoert-2025-01-06_21-35-14.json",
+        "amq_song_expoert-2025-05-16_21-07-03.json"
+      ]
+    },
+    {
+      "anime": "Am I Actually the Strongest?",
+      "title": "HimiCHU★Puri Love Magic",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "floth-shadow_35.json",
+        "amq_song_expoert-2024-12-21_00-42-54.json",
+        "thaleko-floth_24.json"
+      ]
+    },
+    {
+      "anime": "Initial D: Fourth Stage",
+      "title": "RAISING HELL",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "neo_python_20.json",
+        "20-7.json",
+        "NeoPython23.json"
+      ]
+    },
+    {
+      "anime": "Suzume",
+      "title": "SWEET MEMORIES (Re-Mix Version)",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "nose-pool-21.json",
+        "PoolnoodleAnonimus32.json",
+        "amq_song_expoert-2025-05-16_21-07-03.json"
+      ]
+    },
+    {
+      "anime": "Great Mazinger tai Getter Robo",
+      "title": "Great Mazinger no Ballad",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "NeoPython23.json",
+        "clayflo32.json",
+        "amq_song_expoert-2025-01-15_22-33-46.json"
+      ]
+    },
+    {
+      "anime": "Steins;Gate",
+      "title": "My White Ribbon",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-03-09_14-26-02.json",
+        "amq_song_expoert-2025-02-09_22-50-01.json",
+        "amq_song_expoert-2024-10-27_15-47-27.json"
+      ]
+    },
+    {
+      "anime": "Tsurezure Children",
+      "title": "Dear",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "FlothAimyon30.json",
+        "amq_song_expoert-2024-11-07_03-59-59.json",
+        "neohachi11.json"
+      ]
+    },
+    {
+      "anime": "Road to You: Kimi e to Tsuzuku Michi",
+      "title": "Amador (Anime ver.)",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "yerardi_orfey_26.json",
+        "neohachi11.json",
+        "YerardiFloth18.json"
+      ]
+    },
+    {
+      "anime": "Kuttsukiboshi",
+      "title": "Watashi no 71%",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-14_23-11-34.json",
+        "PoolnoodleAnonimus32.json",
+        "amq_song_expoert-2025-08-25_21-34-42.json"
+      ]
+    },
+    {
+      "anime": "That Time I Got Reincarnated as a Slime: Visions of Coleus",
+      "title": "Hikari Hanatsu",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2024-10-24_23-58-03.json",
+        "wuffles-nose.json",
+        "aisuneo32.json"
+      ]
+    },
+    {
+      "anime": "Yu-Gi-Oh! 5D's",
+      "title": "BELIEVE IN NEXUS",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-11_22-59-08.json",
+        "raiden-sewim.json",
+        "clay-chan35.json"
+      ]
+    },
+    {
+      "anime": "Black Clover",
+      "title": "four",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-17_18-01-30.json",
+        "flothalkios21.json",
+        "amq_song_expoert-2024-12-13_00-32-42.json"
+      ]
+    },
+    {
+      "anime": "Kuroko's Basketball",
+      "title": "Ambivalence",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "MilarRuuka.json",
+        "DkingBofu22.json",
+        "carboarron.json"
+      ]
+    },
+    {
+      "anime": "Spy × Family",
+      "title": "Garden",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "ephe-watashi_24.json",
+        "amq_song_expoert-2025-02-08_17-30-56.json",
+        "thaleko-floth_24.json"
+      ]
+    },
+    {
+      "anime": "The Ryuo's Work is Never Done!",
+      "title": "Mamoritai Mono no Tame ni",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-02-11_22-59-08.json",
+        "amq_song_expoert-2025-02-19_14-17-09.json",
+        "amq_song_expoert-2025-01-16_22-40-51.json"
+      ]
+    },
+    {
+      "anime": "Oreshura",
+      "title": "W:Wonder tale",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "flothalkios21.json",
+        "PoolnoodleAnonimus32.json",
+        "jessi-bofu_22.json"
+      ]
+    },
+    {
+      "anime": "Laid-Back Camp The Movie",
+      "title": "Mimosa",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "ClaydollKoroshiya26.json",
+        "aisu-sui2.json",
+        "amq_song_expoert-2025-05-22_13-19-01.json"
+      ]
+    },
+    {
+      "anime": "Uma Musume: Pretty Derby Season 2",
+      "title": "Sasayaka na Inori",
+      "pattern": "❌✅❌",
+      "recent_files": [
+        "SewimTheDogs.json",
+        "amq_song_expoert-2025-02-01_11-52-46.json",
+        "neowolf19.json"
+      ]
+    },
+    {
+      "anime": "Gekijouban Psycho-Pass: Providence",
+      "title": "Alexithymia Spare",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "amq_song_expoert-2025-05-12_23-06-49.json",
+        "tour-amq_song_expoert-2025-05-10_23-17-37-doomais-18.json",
+        "amq_song_expoert-2025-07-03_05-05-29.json"
+      ]
+    },
+    {
+      "anime": "Case Closed: The Phantom of Baker Street",
+      "title": "Everlasting",
+      "pattern": "✅✅❌",
+      "recent_files": [
+        "ephe-watashi_24.json",
+        "wuf-doom_21.json",
+        "thaleko_kezzy_23.json"
+      ]
+    },
+    {
+      "anime": "Prima Doll",
+      "title": "Hanabaori",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "wuf-doom_21.json",
+        "BellaFloth19.json",
+        "amq_song_expoert-2024-12-23_14-04-35.json"
+      ]
+    },
+    {
+      "anime": "Gods' Games We Play",
+      "title": "I'm GAME!",
+      "pattern": "✅❌❌",
+      "recent_files": [
+        "amq_song_expoert-2025-04-06_17-09-55.json",
+        "vortexeric21.json",
+        "purple-pool-19.json"
+      ]
+    }
+  ]
+}
