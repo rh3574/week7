@@ -29,24 +29,21 @@ I used ChatGPT to help with:
 - [Specific thing 1]: I learned the importance of async. Async lets my loadData() run in the background while the rest of the app keeps working. 
 - [Specific thing 2]: I didn't really modify code using human input--the few things I did modify were colors and text that are displayed. I mostly took what GPT wrote and asked it questions, to which GPT responded with new code. I reiterated this process a lot of times. The things I did modify exist in this section:
 
+```jsx
 return (
-    <div style={{ padding: "20px" }}>
-      <h1>🎓 AMQ Relearn Tracker</h1>
-      <h2>Player: {player}</h2>
-
-      <p style={{ color: "#666", fontSize: "16px" }}>
-        These are songs you recently missed but had previously guessed correctly.{" "}
-        There are{" "}
-        <span style={{ color: "#0070f3", fontWeight: "bold" }}>
-          {relearn_songs.length}
-        </span>{" "}
-        songs to relearn.
-      </p>
-
-
-      <RelearnTable songs={relearn_songs} images={jikanImages} />
-    </div>
-  );
+  <div style={{ padding: "20px" }}>
+    <h1>🎓 AMQ Relearn Tracker</h1>
+    <h2>Player: {player}</h2>
+    <p style={{ color: "#666", fontSize: "16px" }}>
+      These are songs you recently missed but had previously guessed correctly.{" "}
+      There are{" "}
+      <span style={{ color: "#0070f3", fontWeight: "bold" }}>
+        {relearn_songs.length}
+      </span>{" "}
+      songs to relearn.
+    </p>
+  </div>
+);
 
 - [Specific thing 3]: GPT was helpful in coming up with technical solutions I didn't know how to implement. For example, it helped me with making the table look evenly distributed(columns are evenly distributed and not skewed). It also helped me fetch images from JIKAN api. 
 
