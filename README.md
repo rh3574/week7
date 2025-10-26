@@ -43,7 +43,7 @@ return (
       songs to relearn.
     </p>
   </div>
-);
+);```
 
 - [Specific thing 3]: GPT was helpful in coming up with technical solutions I didn't know how to implement. For example, it helped me with making the table look evenly distributed(columns are evenly distributed and not skewed). It also helped me fetch images from JIKAN api. 
 
